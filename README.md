@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.vhv.rs/dpng/d/303-3034547_app-for-youtube-opera-logo-svg-hd-png.png" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618780561~hmac=6102deae5f34da5c5e08c690004c1261" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
