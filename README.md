@@ -38,7 +38,7 @@
 </details> -->
 
 [twitter]: https://twitter.com/dinushan718
-[youtube]: https://www.youtube.com/channel/uct4q3aarrl8izzvptcfvwmq
+[youtube]: https://www.youtube.com/channel/UCt4Q3aARrl8IZZVPTCfvwmQ
 [instagram]: https://www.instagram.com/selvan_dinu/
 [linkedin]: https://www.linkedin.com/in/selvan-dinushan-25046a191
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
