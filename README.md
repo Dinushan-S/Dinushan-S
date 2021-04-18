@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618780561~hmac=6102deae5f34da5c5e08c690004c1261" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504848.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128310.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3256/3256016.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3955/3955024.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
