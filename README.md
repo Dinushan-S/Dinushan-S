@@ -1,4 +1,4 @@
-# I'M a University student But still Learning from {Home} 👋
+- I'M a University student But still Studing from {Home} 👋
 
 - 👋 Hi, I’m @Dinusha-S
 - 👀 I’m interested in Games and midnight Coding
