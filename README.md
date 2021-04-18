@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="YouTube" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504848.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128310.svg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg " />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3256/3256016.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3955/3955024.svg" />][instagram]
 <br />
