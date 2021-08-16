@@ -1,6 +1,6 @@
 # I'M a University student But still Studing from {Home} 👋
 
-- 👋 Hi, I’m @Dinusha-S
+- 👋 Hi, I’m @Dinushan-S
 - 👀 I’m interested in Games and midnight Coding
 - 🌱 I’m currently learning Mern
 - 💞️ I’m looking to collaborate on Mern project
