@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Dinushan-S
 - 👀 I’m interested in Games and midnight Coding
 - 🌱 I’m currently working on flutter and learning solidity 
-- 💞️ I’m looking to collaborate on Mern project
+- 💞️ I’m looking to collaborate on blockchain project for learning.
 - 📫 How to reach me
 
 ### Connect with me:
