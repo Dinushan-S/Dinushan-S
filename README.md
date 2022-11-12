@@ -1,8 +1,8 @@
-# I'M a University student But still Studing from {Home} 👋
+# I'M a University student. 👋
 
 - 👋 Hi, I’m @Dinushan-S
 - 👀 I’m interested in Games and midnight Coding
-- 🌱 I’m currently working on flutter and learning solidity 
+- 🌱 I’m currently learning solidity to develop a web3 dapps
 - 💞️ I’m looking to collaborate on blockchain project for learning.
 - 📫 How to reach me
 
