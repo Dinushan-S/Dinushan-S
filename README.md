@@ -1,4 +1,4 @@
-# I'M a University student. 👋
+# Hi! 👋I'M Dinu😁
 
 - 👋 Hi, I’m @Dinushan-S
 - 👀 I’m interested in Games and midnight Coding
