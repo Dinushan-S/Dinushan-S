@@ -1,8 +1,7 @@
 # Hi! 👋I'M Dinu😁
 
-- 👋 Hi, I’m @Dinushan-S
 - 👀 I’m interested in Games and midnight Coding
-- 🌱 I’m currently learning solidity to develop a web3 dapps
+- 🌱 I’m currently Working on Asp.net and react based project and still learning. 
 - 💞️ I’m looking to collaborate on blockchain project for learning.
 - 📫 How to reach me
 
