@@ -48,7 +48,7 @@
 [twitter]: https://twitter.com/dinushan718
 [youtube]: https://www.youtube.com/channel/UCt4Q3aARrl8IZZVPTCfvwmQ
 [instagram]: https://www.instagram.com/selvan_dinu/
-[linkedin]: https://www.linkedin.com/in/selvan-dinushan-25046a191
+[linkedin]: https://www.linkedin.com/in/dinushan-selvan/
 <!-- [webdevplaylist]: 
 [jsplaylist]: 
 [cssplaylist]: 
